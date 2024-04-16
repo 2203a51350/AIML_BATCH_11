@@ -13,3 +13,5 @@
 7.[lab 07] [https://github.com/2203a51350/AIML_BATCH_11/blob/main/Lab_7.ipynb]
 
 8.[lab 08] [https://github.com/2203a51350/AIML_BATCH_11/blob/main/Lab_08.ipynb]
+
+9.[lab 09] [https://github.com/2203a51350/AIML_BATCH_11/blob/main/Lab09_rfClassification.ipynb]
